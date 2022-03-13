@@ -61,3 +61,11 @@ ol li:last-child {
 .types {
   background-color: #d04b16;
 }
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
