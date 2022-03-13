@@ -23,7 +23,7 @@ nav ul {
 }
 
 #contents, #favs, #facts, #types {
-  color: #fff;
+  color: #93a1a1;
 }
 
 .wrapper > .dfn {
@@ -36,10 +36,9 @@ strong + .dfn {
 
 a {
   background-color: #719e07;
-
 }
 
-rel="external" {
+[rel="external"] {
   background-color: #2694d8;
 }
 
@@ -56,9 +55,9 @@ ol li:last-child {
 }
 
 .types li:nth-child(even) {
-  background-color: #586e75
+  background-color: #586e75;
 }
 
 .types {
-  background-color: #d04b16
+  background-color: #d04b16;
 }
